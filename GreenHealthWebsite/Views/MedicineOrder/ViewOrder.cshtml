@@ -1,0 +1,51 @@
+﻿@*@model IEnumerable<GreenHealthWebsite.Models.Staff.Pharmacy.MedicineOrder>*@
+@model List<GreenHealthWebsite.Models.Staff.Pharmacy.MedicineOrder>
+
+@{
+    ViewData["Title"] = "ViewOrder";
+    Layout = "~/Views/Shared/_LayoutPharmacy.cshtml";
+}
+
+<h1>View Orders</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Order ID</th>
+            <th>Medicine Name</th>
+            <th>Supplier Name</th>
+            <th>Ordered Date</th>
+            <th>Ordered Stock</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@order.OrderID</td>
+                <td>
+                    @if (order.Medicines != null)
+                    {
+                        @order.Medicines.Medicine_Name
+                    }
+                    else
+                    {
+                        <text>N/A</text>;
+                    }
+                </td>
+                <td>
+                    @if (order.Suppliers != null)
+                    {
+                        @order.Suppliers.SupplierName
+                    }
+                    else
+                    {
+                        <text>N/A</text>;
+                    }
+                </td>
+                <td>@order.OrderedDate.ToString("MM/dd/yyyy")</td>
+                <td>@order.OrderedStock</td>
+            </tr>
+        }
+    </tbody>
+</table>

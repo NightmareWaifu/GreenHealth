@@ -1,0 +1,105 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = GreenHealthWebsite
+build_property.RootNamespace = GreenHealthWebsite
+build_property.ProjectDir = D:\Shan\Poly\Year 3 Info Solution\Sem 1\Infocomm Solutions Project\Project\Kermit_Seppuku\GreenHealthWebsite\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Shan\Poly\Year 3 Info Solution\Sem 1\Infocomm Solutions Project\Project\Kermit_Seppuku\GreenHealthWebsite
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/CustomerAppointment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJBcHBvaW50bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Login/CustomerPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3VzdG9tZXJQYWdlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Login/CustomerPage2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cQ3VzdG9tZXJQYWdlMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Login/DoctorPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRG9jdG9yUGFnZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Login/ForgetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cRm9yZ2V0UGFzc3dvcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Login/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/MedicineOrder/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVPcmRlclxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/MedicineOrder/ViewOrder.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVPcmRlclxWaWV3T3JkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Medicine/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Medicine/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Medicine/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Medicine/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNpbmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Shared/_LayoutCustomer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRDdXN0b21lci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Shared/_LayoutLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Shared/_LayoutPharmacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRQaGFybWFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Shan/Poly/Year 3 Info Solution/Sem 1/Infocomm Solutions Project/Project/Kermit_Seppuku/GreenHealthWebsite/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3nsvgk8f42

@@ -1,0 +1,50 @@
+﻿@model GreenHealthWebsite.Models.Staff.Pharmacy.MedicineOrder
+
+@{
+    ViewData["Title"] = "Order";
+    Layout = "~/Views/Shared/_LayoutPharmacy.cshtml";
+}
+
+<h1>Order</h1>
+
+<form method="post">
+    <div class="form-group">
+        <label>Medicine Name:</label>
+        <select name="MedicineID" class="form-control">
+            <option value="">-- Select Medicine --</option>
+            @foreach (var medicine in ViewBag.Medicines)
+            {
+                <option value="@medicine.MedicineID">@medicine.Medicine_Name</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Supplier Name:</label>
+        <select name="SupplierID" class="form-control">
+            <option value="">-- Select Supplier --</option>
+            @foreach (var supplier in ViewBag.Suppliers)
+            {
+                <option value="@supplier.SupplierID">@supplier.SupplierName</option>
+            }
+        </select>
+    </div>
+    <div class="form-group">
+        <label>Quantity:</label>
+        <input type="text" name="OrderedStock" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Order Date:</label>
+        <input type="text" name="OrderedDate" class="form-control" value="@DateTime.Now" class="readonly" readonly />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Place Order" class="btn btn-primary" />
+    </div>
+</form>
+<style>
+    .readonly {
+        background-color: #f2f2f2;
+        color: #888888;
+        cursor: not-allowed;
+    }
+</style>
+
